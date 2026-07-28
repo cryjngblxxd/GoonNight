@@ -1,11 +1,6 @@
 
 --[[
 
-
-
-You can remove this message block as you like.
-
-
  _                ____            _   
 | |   _   _  __ _|  _ \ _ __ ___ | |_ 
 | |  | | | |/ _` | |_) | '__/ _ \| __|
