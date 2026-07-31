@@ -1,7 +1,8 @@
 
 --[[
 
-DTC SQUAD OUT
+farzard was here ahh jit 
+
 
  _                ____            _   
 | |   _   _  __ _|  _ \ _ __ ___ | |_ 
