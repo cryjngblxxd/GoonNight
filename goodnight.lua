@@ -1,7 +1,7 @@
 
 --[[
 
-farzard was here ahh jit 
+farzard bro stop tryna crack me skull
 
 
  _                ____            _   
